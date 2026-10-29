@@ -50,7 +50,7 @@ def find_student(student_id):
 # 打印所有学生的成绩。
 def show_students():
     if not students:
-        print("没有找到学生成绩")
+        print("没有学生成绩可被找到")
     else:
         print_list(students)
 
