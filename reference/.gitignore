@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.tests-tmp/*
+!.tests-tmp/.gitkeep
+data/*.json
+data/*.json.corrupt
+.*.tmp

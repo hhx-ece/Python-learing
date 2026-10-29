@@ -1,0 +1,15 @@
+# Python 产生的缓存
+__pycache__/
+*.py[cod]
+
+# 运行时生成的数据（不进版本库）
+students.json
+.students.tmp
+*.tmp
+
+# 测试临时目录
+.tests-tmp/
+
+# 参考实现的数据文件
+reference/data/*.json
+reference/data/*.corrupt
